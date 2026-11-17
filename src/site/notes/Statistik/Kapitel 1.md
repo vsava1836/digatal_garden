@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/statistik/kapitel-1/","tags":["gardenEntry"],"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/statistik/kapitel-1/","dg-note-properties":{}}
 ---
 
 /the goal is to turn data into information, and information into insight./
